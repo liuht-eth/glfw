@@ -101,3 +101,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Custom build folders
+bin
+bin-int
